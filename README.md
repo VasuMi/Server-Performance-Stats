@@ -129,3 +129,5 @@ This project demonstrates basic Linux system administration and Bash scripting s
 ## Project Purpose
 
 This project was created to practice Linux administration, shell scripting, and basic DevOps monitoring concepts.
+
+Project URL: https://github.com/VasuMi/Server-Performance-Stats
